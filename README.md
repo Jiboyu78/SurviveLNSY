@@ -1,6 +1,9 @@
 ---
 description: >-
-  欢迎阅读<辽宁省实验中学生存指南>，这是由LNSY极维电脑社提出的、接受全体在读同学和学哥学姐贡献的文档站，希望能给未来的实验在读和入学新生同学带来微小的帮助。本项目的灵感来自<上海交通大学生存手册>https://survivesjtu.gitbook.io/survivesjtumanual，<上海交通大学大学飞跃手册>https://survivesjtu.github.io/SJTU-Ap
+  欢迎阅读<辽宁省实验中学生存指南>，这是由LNSY极维电脑社提出的、接受全体在读同学和学哥学姐贡献的文档站，希望能给未来的实验在读和入学新生同学带来微小的帮助。本项目的灵感来自:
+  <上海交通大学生存手册>https://survivesjtu.gitbook.io/survivesjtumanual
+  <上海交通大学大学飞跃手册>https://survivesjtu.github.io/SJTU-Ap
+  <南方科技大学飞跃手册>https://sustech-application.github.io/2019-Fall/#/
 ---
 
 # SurviveLNSY
