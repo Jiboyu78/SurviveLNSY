@@ -1,6 +1,7 @@
 # Table of contents
 
 * [README](README.md)
+* [提issue](ti-issue.md)
 
 ## 序
 
@@ -27,6 +28,7 @@
 
 * [大学和高中](fang-tan-ji/da-xue-he-gao-zhong.md)
 * [关于社团](fang-tan-ji/guan-yu-she-tuan.md)
+* [关于永志班](fang-tan-ji/guan-yu-yong-zhi-ban.md)
 * [关于竞赛](fang-tan-ji/guan-yu-jing-sai.md)
 * [师说](fang-tan-ji/shi-shuo.md)
 
@@ -50,4 +52,25 @@
   * [间操和周会评比](sheng-cun-ji-qiao/ji-l/jian-cao-he-zhou-hui-ping-bi.md)
   * [寝室评比](sheng-cun-ji-qiao/ji-l/qin-shi-ping-bi.md)
   * [违纪处罚](sheng-cun-ji-qiao/ji-l/wei-ji-chu-fa.md)
-* [\[管理组织\]](sheng-cun-ji-qiao/guan-li-zu-zhi.md)
+* [管理组织](sheng-cun-ji-qiao/guan-li-zu-zhi/README.md)
+  * [学生会](sheng-cun-ji-qiao/guan-li-zu-zhi/xue-sheng-hui.md)
+  * [社联](sheng-cun-ji-qiao/guan-li-zu-zhi/she-lian.md)
+  * [团委](sheng-cun-ji-qiao/guan-li-zu-zhi/tuan-wei.md)
+* [消费](sheng-cun-ji-qiao/xiao-fei/README.md)
+  * [食堂](sheng-cun-ji-qiao/xiao-fei/shi-tang.md)
+  * [小卖部](sheng-cun-ji-qiao/xiao-fei/xiao-mai-bu.md)
+  * [文印室](sheng-cun-ji-qiao/xiao-fei/wen-yin-shi.md)
+  * [网络办](sheng-cun-ji-qiao/xiao-fei/wang-luo-ban.md)
+  * [学生处](sheng-cun-ji-qiao/xiao-fei/xue-sheng-chu.md)
+  * [嘉年华学校周边](sheng-cun-ji-qiao/xiao-fei/jia-nian-hua-xue-xiao-zhou-bian.md)
+  * [寝室](sheng-cun-ji-qiao/xiao-fei/qin-shi.md)
+* [住宿](sheng-cun-ji-qiao/zhu-su/README.md)
+  * [寝室条件](sheng-cun-ji-qiao/zhu-su/qin-shi-tiao-jian.md)
+  * [作息时间](sheng-cun-ji-qiao/zhu-su/zuo-xi-shi-jian.md)
+  * [寝室巡查和评比](sheng-cun-ji-qiao/zhu-su/qin-shi-xun-cha-he-ping-bi.md)
+* [公共设施](sheng-cun-zhi-nan/gong-gong-she-shi/README.md)
+  * [体育场](sheng-cun-zhi-nan/gong-gong-she-shi/ti-yu-chang.md)
+  * [教学设施](sheng-cun-zhi-nan/gong-gong-she-shi/jiao-xue-she-shi.md)
+  * [热水](sheng-cun-zhi-nan/gong-gong-she-shi/re-shui.md)
+  * [厕所](sheng-cun-zhi-nan/gong-gong-she-shi/ce-suo.md)
+  * [空调](sheng-cun-zhi-nan/gong-gong-she-shi/kong-tiao.md)
