@@ -12,6 +12,7 @@
 
 * [欢迎来到辽宁省实验](li-zhi-pian/huan-ying-lai-dao-liao-ning-sheng-shi-yan.md)
 * [你想要做什么](li-zhi-pian/ni-xiang-yao-zuo-shen-me.md)
+* [提高思维的品质](li-zhi-pian/ti-gao-si-wei-de-pin-zhi.md)
 * [失败的思维方式](li-zhi-pian/shi-bai-de-si-wei-fang-shi/README.md)
   * [中考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/zhong-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
