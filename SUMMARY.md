@@ -21,7 +21,7 @@
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
 * [认识信息素养](li-zhi-pian/ren-shi-xin-xi-su-yang/README.md)
-  * [提问的智慧](li-zhi-pian/ren-shi-xin-xi-su-yang/page-2.md)
+  * [提问的智慧](li-zhi-pian/ren-shi-xin-xi-su-yang/README-zh_CN.md)
 * [学竞赛的兴趣](li-zhi-pian/xue-jing-sai-de-xing-qu.md)
 
 ## 访谈集
