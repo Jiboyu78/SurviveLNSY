@@ -17,13 +17,13 @@
   * [中考思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/zhong-kao-si-wei.md)
   * [被动思维](li-zhi-pian/shi-bai-de-si-wei-fang-shi/bei-dong-si-wei.md)
 * [反对PUA](li-zhi-pian/fan-dui-pua.md)
-* [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi.md)
+* [悲壮的学习方式](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi/README.md)
+  * [Page 1](li-zhi-pian/bei-zhuang-de-xue-xi-fang-shi/page-1.md)
 * [你的身价是多少](li-zhi-pian/ni-de-shen-jia-shi-duo-shao.md)
 * [正确地浪费剩下的时间](li-zhi-pian/zheng-que-di-lang-fei-sheng-xia-de-shi-jian.md)
 * [总有更值得做的事情](li-zhi-pian/zong-you-geng-zhi-de-zuo-de-shi-qing.md)
 * [认识信息素养](li-zhi-pian/ren-shi-xin-xi-su-yang.md)
 * [学竞赛的兴趣](li-zhi-pian/xue-jing-sai-de-xing-qu.md)
-* [关于大学](li-zhi-pian/guan-yu-da-xue.md)
 
 ## 访谈集
 
@@ -75,5 +75,7 @@
   * [热水](sheng-cun-ji-qiao/gong-gong-she-shi/re-shui.md)
   * [厕所](sheng-cun-ji-qiao/gong-gong-she-shi/ce-suo.md)
   * [空调](sheng-cun-ji-qiao/gong-gong-she-shi/kong-tiao.md)
+
 ## 附录
+
 * [贡献名单](fu-lu/gong-xian-ming-dan.md)
