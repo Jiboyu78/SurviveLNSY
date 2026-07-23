@@ -29,7 +29,8 @@
 * [大学和高中](fang-tan-ji/da-xue-he-gao-zhong.md)
 * [关于社团](fang-tan-ji/guan-yu-she-tuan.md)
 * [关于永志班](fang-tan-ji/guan-yu-yong-zhi-ban.md)
-* [关于竞赛](fang-tan-ji/guan-yu-jing-sai.md)
+* [关于竞赛](fang-tan-ji/guan-yu-jing-sai/README.md)
+  * [“只是去听一听”](fang-tan-ji/guan-yu-jing-sai/zhi-shi-qu-ting-yi-ting.md)
 * [师说](fang-tan-ji/shi-shuo.md)
 
 ## 生存技巧
@@ -56,6 +57,7 @@
   * [学生会](sheng-cun-ji-qiao/guan-li-zu-zhi/xue-sheng-hui.md)
   * [社联](sheng-cun-ji-qiao/guan-li-zu-zhi/she-lian.md)
   * [团委](sheng-cun-ji-qiao/guan-li-zu-zhi/tuan-wei.md)
+  * [（注）省实验家长群](sheng-cun-ji-qiao/guan-li-zu-zhi/zhu-sheng-shi-yan-jia-zhang-qun.md)
 * [消费](sheng-cun-ji-qiao/xiao-fei/README.md)
   * [食堂](sheng-cun-ji-qiao/xiao-fei/shi-tang.md)
   * [小卖部](sheng-cun-ji-qiao/xiao-fei/xiao-mai-bu.md)
