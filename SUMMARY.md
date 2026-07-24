@@ -41,6 +41,7 @@
   * [高三](sheng-cun-ji-qiao/da-shi-ji/gao-san.md)
 * [课程与日程](sheng-cun-ji-qiao/ke-cheng-yu-ri-cheng/README.md)
   * [长课间](sheng-cun-ji-qiao/ke-cheng-yu-ri-cheng/chang-ke-jian.md)
+  * [体活](sheng-cun-ji-qiao/ke-cheng-yu-ri-cheng/ti-huo.md)
   * [间操](sheng-cun-ji-qiao/ke-cheng-yu-ri-cheng/jian-cao.md)
   * [晚课](sheng-cun-ji-qiao/ke-cheng-yu-ri-cheng/wan-ke.md)
   * [竞赛课](sheng-cun-ji-qiao/ke-cheng-yu-ri-cheng/jing-sai-ke.md)
@@ -76,6 +77,7 @@
   * [热水](sheng-cun-ji-qiao/gong-gong-she-shi/re-shui.md)
   * [厕所](sheng-cun-ji-qiao/gong-gong-she-shi/ce-suo.md)
   * [空调](sheng-cun-ji-qiao/gong-gong-she-shi/kong-tiao.md)
+  * [图书馆](sheng-cun-ji-qiao/gong-gong-she-shi/tu-shu-guan.md)
 
 ## 附录
 
