@@ -6,6 +6,7 @@ export default defineConfig({
   title: '辽宁省实验中学生存指南',
   description:
     '欢迎阅读<辽宁省实验中学生存指南>，这是由LNSY极维电脑社提出的、接受全体在读同学和学哥学姐贡献的文档站，希望能给未来的实验在读和入学新生同学带来微小的帮助。',
+  ignoreDeadLinks: true,
 
   base: '/SurviveLNSY/',
   head: [
