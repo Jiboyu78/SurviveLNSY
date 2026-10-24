@@ -66,7 +66,7 @@
 
 ### 不是内容的唯一来源
 
-手册中部分内容摘抄自其他学校的生存手册与飞跃手册（如 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)、[上海交通大学大学飞跃手册](https://survivesjtu.github.io/SJTU-Ap)、[南方科技大学飞跃手册](https://sustech-application.github.io/2019-Fall/#/)、[东北师大附中生存手册](https://ziyou-qinghua.github.io/)），多数文章已标注出处。使用这些内容遵循其原始许可。
+手册中部分内容摘抄自其他学校的成型内容（如 [上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)、[上海交通大学大学飞跃手册](https://survivesjtu.github.io/SJTU-Ap)、[南方科技大学飞跃手册](https://sustech-application.github.io/2019-Fall/#/)、[东北师大附中生存手册](https://ziyou-qinghua.github.io/)），多数文章已标注出处。使用这些内容遵循其原始许可。
 
 ---
 
@@ -125,13 +125,12 @@ SurviveLNSY/
 ## 📜 许可协议
 
 内容采用 [CC BY-NC-SA 4.0](LICENSE) 协议（署名-非商业性使用-相同方式共享）。
-版权归辽宁省实验中学极维电脑社所有，未经许可不得用于商业目的。
+版权归辽宁省实验中学极维电脑社（现极维计算机技术交流群）所有，未经许可不得用于商业目的。
 
 ## 🙏 致谢
 
-- **LNSY 极维电脑社** —— 项目发起与维护
+- **LNSY 极维电脑社**（现极维计算机技术交流群） —— 项目发起与维护
 - 全体贡献者 —— 每一篇内容都来自某位同学的实践经验
-- [氯化银不是 lhy](https://space.bilibili.com/520199599)、[ChidaoDouyu](https://github.com/ChidaoDouyu/) 等 —— 早期《指南》编写者
 - 其他提供灵感的高校生存手册作者们
 
 <p align="center">
